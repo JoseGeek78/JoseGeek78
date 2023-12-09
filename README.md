@@ -1,5 +1,5 @@
 <h3 align="center">
-<img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" border-radius=15%/>
+<img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" />
 
 
  Hola 👋🏽, Soy Jose!</h3>
@@ -24,7 +24,7 @@ La programación y la Ciberseguridad son ya, y lo seguirán siendo, parte import
 
 
 <div align='center'>
-<p><i>Frase genial</i></p>
+<p><i>-Vive como si fueses a morir mañana. Aprende como si fueses a vivir para siempre.- Mahatma Gandhi.</i></p>
 </div>
  
 
