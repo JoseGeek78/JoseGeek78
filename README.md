@@ -6,8 +6,11 @@
 
 
 <div align='center'>
-<p  align="center" style="max-width: 330 px">Llegué un poco tarde al mundo de la programación (con 45 años aunque realmente nunca es tarde 🤘🏽👴🏽), pero sin duda encontré mi vocación y mi pasión. Desde que me inicié aprendiendo HTML y CSS prácticamente no ha pasado ni in día que no haya programado, leído, estudiado o visto algún vídeo relacionado con este extenso y maravilloso mundo. <br>
+<p  align="center" style="max-width: 330 px">Llegué un poco tarde al mundo de la programación (con 45 años aunque realmente nunca es tarde 🤘🏽👴🏽), pero sin duda encontré mi vocación y mi pasión. Desde que me inicié aprendiendo HTML y CSS prácticamente no ha pasado ni un día que no haya programado, leído, estudiado o visto algún vídeo relacionado con este extenso y maravilloso mundo.<br>
 La programación y la Ciberseguridad son ya, y lo seguirán siendo, parte importante de mi vida.</p>
+
+<p  align="center" style="max-width: 330 px">I arrived a bit late to the programming world (at 45 years old, although it's never really too late 🤘🏽👴🏽), but I undoubtedly found my vocation and passion. Since I started learning HTML and CSS, hardly a day has passed without programming, reading, studying, or watching some video related to this extensive and wonderful world.<br>
+Programming and cybersecurity are already, and will continue to be, significant parts of my life.</p>
 
 <h5  align="center">Aquí puedes ver lo mucho que me esfuerzo cada día para aprender y mejorar:</h5>
 </div>
@@ -31,10 +34,12 @@ La programación y la Ciberseguridad son ya, y lo seguirán siendo, parte import
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br>
  
  ## Frameworks, Platforms and Libraries
 
- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
@@ -42,6 +47,7 @@ La programación y la Ciberseguridad son ya, y lo seguirán siendo, parte import
 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
+<br>
 <br>
 
 <div align='center'>
