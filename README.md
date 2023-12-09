@@ -1,5 +1,5 @@
 <h3 align="center">
-<img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" />
+<img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" border-radius=15%/>
 
 
  Hola 👋🏽, Soy Jose!</h3>
