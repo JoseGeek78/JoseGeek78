@@ -26,30 +26,7 @@ La programación y la Ciberseguridad son ya, y lo seguirán siendo, parte import
 <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" />
 
 
- Hola 👋🏽, Soy Jose!</h3>
 
-
-<div align='center'>
-<p  align="center" style="max-width: 330 px">Llegué un poco tarde al mundo de la programación (con 45 años aunque realmente nunca es tarde 🤘🏽👴🏽), pero sin duda encontré mi vocación y mi pasión. Desde que me inicié aprendiendo HTML y CSS prácticamente no ha pasado ni in día que no haya programado, leído, estudiado o visto algún vídeo relacionado con este extenso y maravilloso mundo. <br>
-La programación y la Ciberseguridad son ya, y lo seguirán siendo, parte importante de mi vida.</p>
-
-<h5  align="center">Aquí puedes ver lo mucho que me esfuerzo cada día para aprender y mejorar:</h5>
-</div>
-</br>
-<table align='center'>
-<tr>
-<th align='center'>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=JoseGeek78&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=400" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGeek78&exclude_repo=github-readme-stats,anuraghazra.github.io" />
-</th>
-</tr>  
-</table>  
-
-
-<div align='center'>
-<p><i>-Vive como si fueses a morir mañana. Aprende como si fueses a vivir para siempre.- Mahatma Gandhi.</i></p>
-</div>
  
 
 
