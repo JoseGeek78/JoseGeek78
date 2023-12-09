@@ -22,7 +22,8 @@ La programación y la Ciberseguridad son ya, y lo seguirán siendo, parte import
 </tr>  
 </table>  
 
-<table align='center'><p><i>-Vive como si fueses a morir mañana. Aprende como si fueses a vivir para siempre.- Mahatma Gandhi.</i></p></table>
+<div align='center'>
+ <p><i>-Vive como si fueses a morir mañana. Aprende como si fueses a vivir para siempre.- Mahatma Gandhi.</i></p>
 </div>
  
 
