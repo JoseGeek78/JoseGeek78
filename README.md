@@ -53,7 +53,7 @@ Programming and cybersecurity are already, and will continue to be, significant 
 <br>
 
 <div align='center'>
- <p><i>-Vive como si fueses a morir mañana. Aprende como si fueses a vivir para siempre.- Mahatma Gandhi.</i></p>
+ <h5><i>-Vive como si fueses a morir mañana. Aprende como si fueses a vivir para siempre.- Mahatma Gandhi.</i></h5>
 </div>
  
 
