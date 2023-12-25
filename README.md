@@ -20,9 +20,9 @@ Programming and cybersecurity are already, and will continue to be, significant 
 <table align='center'>
 <tr>
 <th align='center'>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=JoseGeek78&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=400" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=JoseGeek78&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=300" />
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGeek78&layout=compact" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGeek78&layout=compact" />
 </th>
 </tr>  
 </table>  
