@@ -62,6 +62,7 @@ Programming and cybersecurity are already, and will continue to be, significant 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 <br>
+<br>
 
 <div align='center'>
  <h5><i>-Vive como si fueses a morir mañana. Aprende como si fueses a vivir para siempre.- Mahatma Gandhi.</i></h5>
