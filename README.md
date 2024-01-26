@@ -29,7 +29,7 @@ Programming and cybersecurity are already, and will continue to be, significant 
 
 ## Programming Languages
 
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
@@ -52,6 +52,15 @@ Programming and cybersecurity are already, and will continue to be, significant 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
 <br>
+
+## Database
+
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
 <br>
 
 <div align='center'>
