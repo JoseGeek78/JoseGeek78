@@ -6,12 +6,12 @@
 
 
 <div align='center'>
-<p  align="center" style="max-width: 330 px">Llegué un poco tarde al mundo de la programación (con 45 años, aunque realmente nunca es tarde 🤘🏽👴🏽), pero sin duda encontré mi vocación y mi pasión. Desde que me inicié aprendiendo HTML y CSS prácticamente no ha pasado ni un día que no haya programado, leído, estudiado o visto algún vídeo relacionado con este extenso y maravilloso mundo.<br>
+<p  align="center" style="max-width: 330 px">Llegué un poco tarde al mundo de la programación (con 44 años, aunque realmente nunca es tarde 🤘🏽👴🏽), pero sin duda encontré mi vocación y mi pasión. Desde que me inicié aprendiendo HTML y CSS prácticamente no ha pasado ni un día que no haya programado, leído, estudiado o visto algún vídeo relacionado con este extenso y maravilloso mundo.<br>
 La programación y la Ciberseguridad son ya, y lo seguirán siendo, parte importante de mi vida.</p>
 
 <p>======================================================================================================================================</p>
 
-<p  align="center" style="max-width: 330 px">I arrived a bit late to the programming world (at 45 years old, although it's never really too late 🤘🏽👴🏽), but I undoubtedly found my vocation and passion. Since I started learning HTML and CSS, hardly a day has passed without programming, reading, studying, or watching some video related to this extensive and wonderful world.<br>
+<p  align="center" style="max-width: 330 px">I arrived a bit late to the programming world (at 44 years old, although it's never really too late 🤘🏽👴🏽), but I undoubtedly found my vocation and passion. Since I started learning HTML and CSS, hardly a day has passed without programming, reading, studying, or watching some video related to this extensive and wonderful world.<br>
 Programming and cybersecurity are already, and will continue to be, significant parts of my life.</p>
 
 <h4  align="center">Aquí puedes ver lo mucho que me esfuerzo cada día para aprender y mejorar:</h4>
