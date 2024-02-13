@@ -63,6 +63,8 @@ Programming and cybersecurity are already, and will continue to be, significant 
 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/DJango-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 <br>
 <hr>
 
