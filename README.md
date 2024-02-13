@@ -52,6 +52,10 @@ Programming and cybersecurity are already, and will continue to be, significant 
 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/DJango-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/FastApi-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 <br>
 <hr>
 
@@ -62,8 +66,6 @@ Programming and cybersecurity are already, and will continue to be, significant 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-<img align="left" alt="NodeJS" src="https://img.shields.io/badge/DJango-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br>
 <hr>
