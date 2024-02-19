@@ -1,6 +1,7 @@
 <h3 align="center">
 <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="350" />
 
+<hr>
 
  Hola 👋🏽, Soy Jose!</h3>
 
