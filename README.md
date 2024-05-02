@@ -7,13 +7,13 @@
 
 
 <div align='center'>
-<p  align="center" style="max-width: 330 px">Llegué un poco tarde al mundo de la programación (aunque realmente nunca es tarde 🤘🏽👴🏽), pero sin duda encontré mi vocación y mi pasión. Desde que me inicié aprendiendo HTML y CSS prácticamente no ha pasado ni un día que no haya programado, leído, estudiado o visto algo relacionado con este extenso y maravilloso mundo.<br>
-La programación y la Ciberseguridad son ya, y lo seguirán siendo, parte importante de mi vida.</p>
+<p  align="center" style="max-width: 330 px">Llegué un poco tarde al mundo de la Ciberseguridad y la Programación (aunque realmente nunca es tarde 🤘🏽👴🏽), pero sin duda encontré mi vocación y mi pasión. Desde que me inicié prácticamente no ha pasado ni un día que no haya leído, estudiado o practicado algo relacionado con este extenso y maravilloso mundo.<br>
+La Ciberseguridad y la Programación son ya, y lo seguirán siendo, parte importante de mi vida.</p>
 
 <p>======================================================================================================================================</p>
 
-<p  align="center" style="max-width: 330 px">I arrived a bit late to the programming world (although it's never really too late 🤘🏽👴🏽), but I undoubtedly found my vocation and passion. Since I started learning HTML and CSS, hardly a day has passed without programming, reading, studying, or seen something related to this extensive and wonderful world.<br>
-Programming and cybersecurity are already, and will continue to be, significant parts of my life.</p>
+<p  align="center" style="max-width: 330 px">I arrived a little late to the world of Cybersecurity and Programming (although it is never really late 🤘🏽👴🏽), but without a doubt I found my calling and my passion. Since I started, practically not a day has gone by that I have not read, studied or practiced something related to this vast and wonderful world.<br>
+Cybersecurity and Programming are already, and will continue to be, an important part of my life.</p>
 
 <h4  align="center">Aquí puedes ver lo mucho que me esfuerzo cada día para aprender y mejorar:</h4>
 </div>
